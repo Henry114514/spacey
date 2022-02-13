@@ -1,3 +1,4 @@
 # SpaceY
 
-This is a random project of SpaceY to beat SpaceX🚀
+edx ibm Python Data Science Capstone project
+This is a project of SpaceY to beat SpaceX🚀
